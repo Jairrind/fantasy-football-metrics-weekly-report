@@ -34,19 +34,6 @@
 
 ---
 
-###### Do you like the app? Star the repository here on GitHub and please consider donating to help support its development:
-
-| <sub>PayPal/CC</sub> | <sub>Bitcoin (BTC)</sub> | <sub>Ethereum (ETH)</sub> | <sub>Nano (NANO)</sub> |
-| :---: | :---: | :---: | :---: |
-| [![paypal](resources/images/donate-paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VZZCNLRHH9BQS) | [![donate-bitcoin](resources/images/donate-bitcoin.png)](https://share.trustwallet.com/ZoAkTpY1I9) | [![donate-ethereum](resources/images/donate-ethereum.png)](https://share.trustwallet.com/MF8YBO01I9) | [![donate-nano](resources/images/donate-nano.png)](https://share.trustwallet.com/bNXsMA11I9) |
-
-<sub>BTC: `bc1qataspvklhewtswm357m0677q4raag5new2xt3e`</sub>
-
-<sub>ETH: `0x5eAa522e66a90577D49e9E72f253EC952CDB4059`</sub>
-
-<sub>NANO: `nano_3ug3o6yy983jsqdsc773izhr3jfz4dq8bz7yfhhzkkeq7s8ern1ws7dng4pq`</sub>
-
----
 
 ###### Interested in contributing? <sub><sub>[![Help Wanted](https://img.shields.io/github/labels/uberfastman/fantasy-football-metrics-weekly-report/help%20wanted)](resources/documentation/README.md)</sub></sub>
 

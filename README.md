@@ -35,10 +35,6 @@
 ---
 
 
-###### Interested in contributing? <sub><sub>[![Help Wanted](https://img.shields.io/github/labels/uberfastman/fantasy-football-metrics-weekly-report/help%20wanted)](resources/documentation/README.md)</sub></sub>
-
----
-
 ### Table of Contents
 * <ins>***[Quickstart Guide](#quickstart-guide)***</ins>
 * [About](#about)
